@@ -1,0 +1,51 @@
+{
+  "name": "@sfp-group/quasar-report-builder-vue3",
+  "version": "0.1.0",
+  "description": "A report Builder interface QuasarJs 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.2",
+    "@vuelidate/validators": "^2.0.2",
+    "address": "^1.2.2",
+    "axios": "^1.2.2",
+    "expr-eval": "^2.0.2",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.40",
+    "simple-code-editor": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanAmel/quasar-report-builder-vue3.git"
+  },
+  "keywords": [
+    "Report",
+    "Builder",
+    "QuasarJs",
+    "Vue3"
+  ],
+  "author": "AMELINA Daniel",
+  "license": "ISC",
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "bugs": {
+    "url": "https://github.com/DanAmel/quasar-report-builder-vue3/issues"
+  },
+  "homepage": "https://github.com/DanAmel/quasar-report-builder-vue3#readme"
+}
